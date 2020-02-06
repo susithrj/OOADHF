@@ -1,3 +1,5 @@
+package Chapter01Week01;
+
 public class Guitar {
 
     private String model, brand, backwood, neckwood, productNo ;
